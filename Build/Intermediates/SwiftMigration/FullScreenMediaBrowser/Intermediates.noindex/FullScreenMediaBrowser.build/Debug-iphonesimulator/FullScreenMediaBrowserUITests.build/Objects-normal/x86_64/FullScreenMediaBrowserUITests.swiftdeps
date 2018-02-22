@@ -1,0 +1,153 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FullScreenMediaBrowserUITests"
+provides-nominal:
+- "29FullScreenMediaBrowserUITestsAAC"
+provides-member:
+- ["29FullScreenMediaBrowserUITestsAAC", ""]
+provides-dynamic-lookup:
+- "setUp"
+- "tearDown"
+- "testExample"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "FullScreenMediaBrowserUITests"
+- "XCTestCase"
+- !private "XCUIApplication"
+depends-member:
+- !private ["s7CVarArgP", "XCUIApplication"]
+- !private ["s7CVarArgP", "continueAfterFailure"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "launch"]
+- !private ["s7CVarArgP", "setUp"]
+- !private ["s7CVarArgP", "tearDown"]
+- ["s7CVarArgP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "XCUIApplication"]
+- !private ["s28CustomDebugStringConvertibleP", "continueAfterFailure"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "launch"]
+- !private ["s28CustomDebugStringConvertibleP", "setUp"]
+- !private ["s28CustomDebugStringConvertibleP", "tearDown"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "XCUIApplication"]
+- !private ["s23CustomStringConvertibleP", "continueAfterFailure"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "launch"]
+- !private ["s23CustomStringConvertibleP", "setUp"]
+- !private ["s23CustomStringConvertibleP", "tearDown"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9EquatableP", "XCUIApplication"]
+- !private ["s9EquatableP", "continueAfterFailure"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "launch"]
+- !private ["s9EquatableP", "setUp"]
+- !private ["s9EquatableP", "tearDown"]
+- ["s9EquatableP", ""]
+- !private ["29FullScreenMediaBrowserUITestsAAC", "XCUIApplication"]
+- !private ["29FullScreenMediaBrowserUITestsAAC", "continueAfterFailure"]
+- ["29FullScreenMediaBrowserUITestsAAC", "deinit"]
+- ["29FullScreenMediaBrowserUITestsAAC", "init"]
+- ["29FullScreenMediaBrowserUITestsAAC", "setUp"]
+- ["29FullScreenMediaBrowserUITestsAAC", "tearDown"]
+- ["29FullScreenMediaBrowserUITestsAAC", "testExample"]
+- !private ["s8HashableP", "XCUIApplication"]
+- !private ["s8HashableP", "continueAfterFailure"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "launch"]
+- !private ["s8HashableP", "setUp"]
+- !private ["s8HashableP", "tearDown"]
+- ["s8HashableP", ""]
+- !private ["So8NSObjectC", "XCUIApplication"]
+- !private ["So8NSObjectC", "continueAfterFailure"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "launch"]
+- ["So8NSObjectC", "setUp"]
+- ["So8NSObjectC", "tearDown"]
+- ["So8NSObjectC", "testExample"]
+- !private ["So16NSObjectProtocolP", "XCUIApplication"]
+- !private ["So16NSObjectProtocolP", "continueAfterFailure"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "launch"]
+- !private ["So16NSObjectProtocolP", "setUp"]
+- !private ["So16NSObjectProtocolP", "tearDown"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So11XCTActivityP", "XCUIApplication"]
+- !private ["So11XCTActivityP", "continueAfterFailure"]
+- !private ["So11XCTActivityP", "init"]
+- !private ["So11XCTActivityP", "setUp"]
+- !private ["So11XCTActivityP", "tearDown"]
+- ["So11XCTActivityP", ""]
+- !private ["So17XCTWaiterDelegateP", "XCUIApplication"]
+- !private ["So17XCTWaiterDelegateP", "continueAfterFailure"]
+- !private ["So17XCTWaiterDelegateP", "init"]
+- !private ["So17XCTWaiterDelegateP", "setUp"]
+- !private ["So17XCTWaiterDelegateP", "tearDown"]
+- ["So17XCTWaiterDelegateP", ""]
+- !private ["So6XCTestC", "XCUIApplication"]
+- !private ["So6XCTestC", "continueAfterFailure"]
+- ["So6XCTestC", "init"]
+- ["So6XCTestC", "setUp"]
+- ["So6XCTestC", "tearDown"]
+- ["So6XCTestC", "testExample"]
+- !private ["So10XCTestCaseC", "XCUIApplication"]
+- !private ["So10XCTestCaseC", "continueAfterFailure"]
+- ["So10XCTestCaseC", "init"]
+- ["So10XCTestCaseC", "setUp"]
+- ["So10XCTestCaseC", "tearDown"]
+- ["So10XCTestCaseC", "testExample"]
+- ["So10XCTestCaseC", ""]
+- !private ["So15XCUIApplicationC", "init"]
+- !private ["So15XCUIApplicationC", "launch"]
+- !private ["So11XCUIElementC", "init"]
+- !private ["So11XCUIElementC", "launch"]
+- !private ["So21XCUIElementAttributesP", "init"]
+- !private ["So21XCUIElementAttributesP", "launch"]
+- !private ["So28XCUIElementTypeQueryProviderP", "init"]
+- !private ["So28XCUIElementTypeQueryProviderP", "launch"]
+- !private ["So23XCUIScreenshotProvidingP", "init"]
+- !private ["So23XCUIScreenshotProvidingP", "launch"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "XCUIApplication"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "continueAfterFailure"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "launch"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setUp"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tearDown"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "s9EquatableP"
+- "29FullScreenMediaBrowserUITestsAAC"
+- "s8HashableP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So11XCTActivityP"
+- "So17XCTWaiterDelegateP"
+- "So6XCTestC"
+- "So10XCTestCaseC"
+- !private "So15XCUIApplicationC"
+- !private "So11XCUIElementC"
+- !private "So21XCUIElementAttributesP"
+- !private "So28XCUIElementTypeQueryProviderP"
+- !private "So23XCUIScreenshotProvidingP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/XCTest.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap"
+interface-hash: "2847db25ab8fd7949a97c2222d65323e"

@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "107e1dddcb1d436d2fd20fc402571091"
+build_time: [1518972535, 620867000]
+inputs:
+  "/Users/davalcato/Desktop/FullScreenMediaBrowser/FullScreenMediaBrowser/MediaViewController.swift": [1489803158, 0]
+  "/Users/davalcato/Desktop/FullScreenMediaBrowser/FullScreenMediaBrowser/UIColor+CustomColor.swift": [1489793605, 0]
+  "/Users/davalcato/Desktop/FullScreenMediaBrowser/FullScreenMediaBrowser/MediaItem.swift": [1489794767, 0]
+  "/Users/davalcato/Desktop/FullScreenMediaBrowser/FullScreenMediaBrowser/MediaFetcher.swift": [1489794600, 0]
+  "/Users/davalcato/Desktop/FullScreenMediaBrowser/FullScreenMediaBrowser/MediaCell.swift": [1489795295, 0]
+  "/Users/davalcato/Desktop/FullScreenMediaBrowser/FullScreenMediaBrowser/AppDelegate.swift": [1489793329, 0]

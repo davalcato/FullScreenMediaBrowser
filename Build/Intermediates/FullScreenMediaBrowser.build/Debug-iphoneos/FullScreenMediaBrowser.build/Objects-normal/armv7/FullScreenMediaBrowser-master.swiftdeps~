@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "82f244402744c0dcbe46b0566558df2a"
+build_time: [543108532, 917852000]
+inputs:
+  "/Users/davalcato/Desktop/FullScreenMediaBrowser/FullScreenMediaBrowser/ViewController.swift": [543108529, 0]
+  "/Users/davalcato/Desktop/FullScreenMediaBrowser/FullScreenMediaBrowser/AppDelegate.swift": [543108529, 0]

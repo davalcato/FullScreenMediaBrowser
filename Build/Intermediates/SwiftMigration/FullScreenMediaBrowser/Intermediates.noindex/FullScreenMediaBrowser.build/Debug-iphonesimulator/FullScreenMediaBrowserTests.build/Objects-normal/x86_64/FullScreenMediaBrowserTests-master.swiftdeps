@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "bfd3ba2ce7ff24053b8712cc758e1dea"
+build_time: [1518972542, 44915000]
+inputs:
+  "/Users/davalcato/Desktop/FullScreenMediaBrowser/FullScreenMediaBrowserTests/FullScreenMediaBrowserTests.swift": [1489793330, 0]
